@@ -1,4 +1,6 @@
 # Research-Project-approval-Part-1
+- [Intrantet Project Link](https://intranet.alxswe.com/corrections/22435398/correct)
+- [Google doc representation](https://docs.google.com/document/d/1vOhG9-X1D3emWFOhF-2pE1bMI9_KkTz7/edit)
 
 
 ## Resources
@@ -26,6 +28,7 @@ Explore some student projects from previous cohorts!
 If you don’t know what to build, we have some ideas for you:
 
 ~Create a web service that uses [API](https://intranet.alxswe.com/rltoken/P5Ri2TnqqPOzWdRZEE1mEQ) (like a GitHub stats of an account, etc.)
+
 ~Import a rich data set, sanitize it, and create a website to visualize the data with interactive zoom and sliders
 ~Create a music recommender based on a set of ‘liked’ songs
 ~Write a game that can be played against another person or an AI
